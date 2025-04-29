@@ -1,0 +1,12 @@
+{
+    "name": "RTMLFINAL",
+    "folders": [
+      
+    ],
+    "settings": {
+      "files.exclude": {
+        "**/.env": true
+      }
+    }
+  }
+  
