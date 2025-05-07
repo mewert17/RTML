@@ -8,7 +8,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────
 SUBREDDIT   = "CryptoCurrency"
-POST_LIMIT  = 200               # up to 100 per request
+POST_LIMIT  = 200               # up to 100 per reques
 OUTPUT_CSV  = "daily_sentiment.csv"
 USER_AGENT  = "crypto-sentiment-script/0.1 by u/your_reddit_username"
 # ─────────────────────────────────────────────────────────────────────────────
